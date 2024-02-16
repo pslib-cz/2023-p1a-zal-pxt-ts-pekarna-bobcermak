@@ -67,7 +67,7 @@ celkWatt = (prikonSoucet / casSoucet) * 3.6  // kW/h
 celkSpotreba = celkWatt * 6.7
 
 console.log("Celkem vás to vyšlo na " + celkSpotreba + " Kč")
-console.log("Pekli jsme " + casSoucet + " vteřin")
+console.log("Pekli jste " + casSoucet + " vteřin")
 console.log("Celkové kilowatt hodiny jsou " + celkWatt + " kW")
 
 
